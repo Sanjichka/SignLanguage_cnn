@@ -1,0 +1,232 @@
+item { 
+	name:'A'
+	id:1
+}
+item { 
+	name:'Agol'
+	id:2
+}
+item { 
+	name:'Amin'
+	id:3
+}
+item { 
+	name:'B'
+	id:4
+}
+item { 
+	name:'Beskonechnost'
+	id:5
+}
+item { 
+	name:'C'
+	id:6
+}
+item { 
+	name:'Centar'
+	id:7
+}
+item { 
+	name:'CH'
+	id:8
+}
+item { 
+	name:'Cvekje'
+	id:9
+}
+item { 
+	name:'D'
+	id:10
+}
+item { 
+	name:'Delenje'
+	id:11
+}
+item { 
+	name:'DJ'
+	id:12
+}
+item { 
+	name:'Dopir'
+	id:13
+}
+item { 
+	name:'DZ'
+	id:14
+}
+item { 
+	name:'E'
+	id:15
+}
+item { 
+	name:'F'
+	id:16
+}
+item { 
+	name:'Fizika'
+	id:17
+}
+item { 
+	name:'G'
+	id:18
+}
+item { 
+	name:'H'
+	id:19
+}
+item { 
+	name:'I'
+	id:20
+}
+item { 
+	name:'Jas'
+	id:21
+}
+item { 
+	name:'Javanje'
+	id:22
+}
+item { 
+	name:'K'
+	id:23
+}
+item { 
+	name:'Kolache'
+	id:24
+}
+item { 
+	name:'Korona'
+	id:25
+}
+item { 
+	name:'Krst'
+	id:26
+}
+item { 
+	name:'Kukja'
+	id:27
+}
+item { 
+	name:'L'
+	id:28
+}
+item { 
+	name:'LJ'
+	id:29
+}
+item { 
+	name:'M'
+	id:30
+}
+item { 
+	name:'Mnogu'
+	id:31
+}
+item { 
+	name:'N'
+	id:32
+}
+item { 
+	name:'NJ'
+	id:33
+}
+item { 
+	name:'O'
+	id:34
+}
+item { 
+	name:'P'
+	id:35
+}
+item { 
+	name:'Peperutka'
+	id:36
+}
+item { 
+	name:'Pritisok'
+	id:37
+}
+item { 
+	name:'Prst'
+	id:38
+}
+item { 
+	name:'R'
+	id:39
+}
+item { 
+	name:'Rob'
+	id:40
+}
+item { 
+	name:'S'
+	id:41
+}
+item { 
+	name:'Sever'
+	id:42
+}
+item { 
+	name:'SH'
+	id:43
+}
+item { 
+	name:'Sida'
+	id:44
+}
+item { 
+	name:'Sin'
+	id:45
+}
+item { 
+	name:'Svekja'
+	id:46
+}
+item { 
+	name:'T'
+	id:47
+}
+item { 
+	name:'Telefon'
+	id:48
+}
+item { 
+	name:'TojTaaToa'
+	id:49
+}
+item { 
+	name:'U'
+	id:50
+}
+item { 
+	name:'V'
+	id:51
+}
+item { 
+	name:'Valkano'
+	id:52
+}
+item { 
+	name:'Vilushka'
+	id:53
+}
+item { 
+	name:'Z'
+	id:54
+}
+item { 
+	name:'Zamenki'
+	id:55
+}
+item { 
+	name:'ZH'
+	id:56
+}
+item { 
+	name:'Zholtica'
+	id:57
+}
+item { 
+	name:'Zoshto'
+	id:58
+}
